@@ -1,6 +1,6 @@
 # Ahmed Morra
 
-Hi!
+
 I create solutions for my problems using **Flutter** (Dart)  for cross platform applications and **Python** for APIs, Data Science and Machine Learning.
 
 
@@ -13,7 +13,7 @@ An app to stay updated on my favorite Esports Tournaments, Matches, Stats & News
  - Developed the app using Flutter framework.
  - Used Getx as my state management solution with MVC architecture.
  - Populated the app with data from REST API & RSS Feeds.
- - Added Analytics to stay updated on user interactions.
+ - Added Firebase Analytics to stay updated on user interactions.
  - Implemented Local Notifications and local storage.
  - Tested the App using Unit tests and Widget tests.
 
@@ -24,7 +24,7 @@ An App to keep track of my stack of supplements count, type, dose, instructions 
  - Developed the app using Flutter framework.
  - Used BLoc as my state management solution and architecture.
  - Used SQLite as the database for the app.
- - Added Analytics to stay updated on user interactions.
+ - Added Firebase Analytics to stay updated on user interactions.
  - Implemented Local Notifications and local storage.
  - Tested the App using Unit tests and Widget tests.
 
