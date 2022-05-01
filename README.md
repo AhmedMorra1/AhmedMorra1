@@ -1,7 +1,7 @@
 # Ahmed Morra
 
 
-I create solutions for my problems using **Flutter** (Dart)  for cross platform applications and **Python** for APIs, Data Science and Machine Learning.
+I create solutions using **Flutter** (Dart)  for cross platform applications and **Python** for APIs, Data Science and Machine Learning.
 
 
 
